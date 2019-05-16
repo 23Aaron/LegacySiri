@@ -10,10 +10,6 @@ async def on_ready():
 async def dickmove(ctx):
     await ctx.send("https://i.imgur.com/QVQKp7X.png")
 
-@bot.command(pass_context=True)
-async def set(ctx):
-    await ctx.send("Do it yourself, you lazy git.")
-
 @bot.event
 async def on_command_error(ctx, error):
     prefix = await bot.get_prefix(ctx.message)
