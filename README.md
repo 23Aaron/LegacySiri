@@ -1,6 +1,6 @@
 # Legacy Siri
 
-This bot is named Legacy Siri after Apple's virtual assistant. The bot was made with help from Moo#2899, WizardZombie#0001 and Nullpixel, each of which helped me to work towards the final product, which was finicky to code, but works well, and works simply.
+This bot is named Legacy Siri after Apple's virtual assistant. The bot was made with help from Moo#2899, WizardZombie#0001 and Nullpixel, each of whom helped me to work towards the final product, which was finicky to code, but works well, and works simply.
 
 This bot requires: 
 
