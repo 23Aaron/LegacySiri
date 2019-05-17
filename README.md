@@ -4,7 +4,7 @@ This bot is named Legacy Siri after Apple's virtual assistant. The bot was made 
 
 This bot requires: 
 
-- discord.py module version 1.0 
+- discord.py module version 1.0 or higher
 - Python 3.5.3 or higher
 
 This bot does a few things:
