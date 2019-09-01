@@ -13,7 +13,7 @@ async def on_ready():
 async def dickmove(ctx):
     await ctx.send("https://i.imgur.com/QVQKp7X.png")
 
-@bot.command(pass_context=True)
+@bot.command(pass_context=True, name='set')
 async def create(ctx):
     await ctx.send("Do it yourself, you lazy git.")
 
